@@ -1,10 +1,13 @@
-import { Home } from "./screens/Home";
+// import { Home } from "./screens/Home";
+// import { PacttosChats } from "./screens/PacttosChats";
+import { WebLinks } from "./screens/WebLinks";
+
 
 export function App() {
 
   return (
     <>
-      <Home />
+      <WebLinks />
     </>
   )
 }
